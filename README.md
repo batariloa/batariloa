@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrej Batarilo
-- 👀 I’m interested in backend development, distributed data-intensive applications. I usually write my frontend in AngularJS/Typescript.
+- 👀 I’m interested in backend development, distributed data-intensive applications, Android development. I usually write my frontend in AngularJS/Typescript. 
 - 🌱 I’m currently improving my Spring Framework skills.
 - 💞️ I’m looking to develop REST API according to your needs.
 - 📫 You can reach me at: batarilocore@gmail.com
