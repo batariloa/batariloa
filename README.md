@@ -7,4 +7,4 @@ I usually write my frontend in AngularJS/Typescript. I also do a bit of Android 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batariloa&hide=javascript,css,scss,html&theme=tokyonight)
  
- yep
+ 
