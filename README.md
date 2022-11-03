@@ -5,7 +5,3 @@
 - I’m currently improving my skills in scalable backend applications. 
 - I’m looking to develop REST API according to your needs.
 - 📫 You can reach me at: batariloa@icloud.com
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batariloa&hide=javascript,css,scss,html&theme=tokyonight)
- 
- 
