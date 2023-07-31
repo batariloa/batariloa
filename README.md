@@ -4,4 +4,3 @@
 -  📫 You can reach me at: batariloa@icloud.com
 
 
-**Check out my website:** [batariloa.tech](http://www.batariloa.tech)
